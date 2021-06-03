@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Custom Modulec for Hello-World
+ *
+ * @description Custom Modulec for Hello-World
+ * @author    <ankith@codilar.com>
+ * @link     https://www.codilar.com
+ * @copyright Copyright © 2021 Codilar Pvt. Ltd.. All rights reserved
+ *
+ * Custom Modulec for Hello-World
+ *
+ * Component Name = Vendor_ModuleName
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Codilar_Thor" />
+</config>
